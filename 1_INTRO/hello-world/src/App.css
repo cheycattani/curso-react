@@ -5,6 +5,9 @@
 .Desafio {
   text-align: end;
   color: greenyellow;
+  background-color: black;
+  font-size: 16px;
+  font-weight: bold;
 }
 
 .App-logo {
