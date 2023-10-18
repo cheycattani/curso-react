@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.Desafio {
+  text-align: end;
+  color: greenyellow;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
